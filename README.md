@@ -4,7 +4,9 @@
 <img src="https://res.cloudinary.com/just/image/upload/v1485982719/ice_screenshot_20170201-125703_cyvdki.png" alt="Search" width="180px"/>
 <img src="https://res.cloudinary.com/just/image/upload/v1485982719/ice_screenshot_20170201-125722_uwmi4s.png" alt="Player" width="180px"/>
 <img src="https://res.cloudinary.com/just/image/upload/v1485982720/ice_screenshot_20170201-125744_dotdqh.png" alt="Media Controls" width="180px"/>
+
 ### Installation
+
 ```
 npm install
 react-native link
@@ -15,6 +17,7 @@ react-native run-ios
 react-native-youtube-player is a music player which uses YouTube API to search videos and youtubeinmp3 API to convert video to mp3 and download it for offline use.
 
 ### Contributors
+
 - [Varik Matevosyan](https://github.com/var77)
 - [Nairi Harutyunyan](https://github.com/nairicode)
 - [Hayk Adamyan](https://github.com/haykadamyan)
