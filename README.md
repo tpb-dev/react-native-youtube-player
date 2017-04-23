@@ -4,6 +4,7 @@
 <img src="https://res.cloudinary.com/just/image/upload/v1485982719/ice_screenshot_20170201-125703_cyvdki.png" alt="Search" width="180px"/>
 <img src="https://res.cloudinary.com/just/image/upload/v1485982719/ice_screenshot_20170201-125722_uwmi4s.png" alt="Player" width="180px"/>
 <img src="https://res.cloudinary.com/just/image/upload/v1485982720/ice_screenshot_20170201-125744_dotdqh.png" alt="Media Controls" width="180px"/>
+
 ### Installation
 ```
 npm install
